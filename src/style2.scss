@@ -1,0 +1,9 @@
+
+$bgColor: red;
+div.myD{
+    background: $bgColor;
+
+    .innerD{
+        background: yellow;
+    }
+}
